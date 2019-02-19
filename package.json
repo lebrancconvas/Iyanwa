@@ -1,0 +1,11 @@
+{
+  "name": "iyanwa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lebrancconvas/Iyanwa.git",
+  "author": "lebrancconvas <lebranccconvas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
