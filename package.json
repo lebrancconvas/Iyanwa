@@ -6,6 +6,7 @@
   "author": "lebrancconvas <lebranccconvas@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "chance": "^1.0.18",
     "discord.js": "^11.4.2"
   }
 }
